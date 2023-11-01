@@ -1,6 +1,6 @@
 Hi 👋 My name is Zakhar Tsarapov
 ===============================
-Junior Full-Stack developer (React/NodeJS)
+Junior FullStack developer (React/NodeJS)
 -----------------------------
 
 🌍  I'm based in Kyiv, Ukraine
